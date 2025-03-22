@@ -12,3 +12,5 @@ Exit Trade:
                 Previous candle low while long and while short previous candle high.
         Target:
                 Mid line of bollinger band in both case
+
+![WhatsApp Image 2025-03-21 at 14 15 26_0bbc60fc](https://github.com/user-attachments/assets/8e717e2a-e83a-40a1-90ea-ae09bae25d6f)
